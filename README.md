@@ -32,7 +32,7 @@ Data quality — every bronze/silver table uses DLT CONSTRAINT ... EXPECT (...) 
 
 
 Orchestration — the DLT pipeline is scheduled via Databricks Workflows for automated, recurring runs (no manual trigger needed).
-**
-Tech stack**
+
+**Tech stack**
 
 Databricks Delta Live Tables · Delta Lake · SQL · Unity Catalog · DLT Expectations · Databricks Workflows
